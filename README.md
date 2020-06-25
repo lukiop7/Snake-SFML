@@ -1,2 +1,2 @@
 # Snake-SFML
-Snake game written in C++ with SFML Library
+2D Snake game written in Object C++ with SFML Library
